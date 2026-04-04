@@ -1,16 +1,28 @@
-## Hi there 👋
+# Salut, moi c'est Christian
 
-<!--
-**2025zabb/2025zabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Étudiant en informatique  
+ Développement web 
+ PHP (formulaires & sessions)  
+ Java & C# (en apprentissage)  
+ SQL (bases)
+ PostgreSQL (en cours d’apprentissage)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Mes projets
+ 
+-  Site vitrine (projet d'examen)
+-  To-Do List en PHP 
+
+##  Technologies
+- PHP (formulaires, sessions)
+- HTML / CSS
+- Java (débutant)
+- C# (débutant)
+- SQL
+- PostgreSQL (en cours)
+
+---
+
+## Contact
+- Email : contact@nzabidesigns.fr
