@@ -1,28 +1,29 @@
 # Salut, moi c'est Christian
 
- Étudiant en informatique  
- Développement web 
- PHP (formulaires & sessions)  
- Java & C# (en apprentissage)  
- SQL (bases)
- PostgreSQL (en cours d’apprentissage)  
+Apprenti développeur web passionné, avec des compétences en PHP (formulaires et sessions),des connaissances en SQL et en cours d’apprentissage de PostgreSQL, Java et C#.
 
 
+## Mes projets
 
-##  Mes projets
- 
--  Site vitrine (projet d'examen)
--  To-Do List en PHP 
+- Développement d’un site vitrine avec système d’inscription utilisateur (PHP, gestion des formulaires et sessions)
+- Conception d’une application To-Do List en PHP : ajout, suppression et affichage dynamique des tâches
 
-##  Technologies
+## Technologies
+
+**Développement web :**
 - PHP (formulaires, sessions)
 - HTML / CSS
-- Java (débutant)
-- C# (débutant)
+
+**Bases de données :**
 - SQL
 - PostgreSQL (en cours)
+
+**Langages en apprentissage :**
+- Java
+- C#
 
 ---
 
 ## Contact
 - Email : contact@nzabidesigns.fr
+- LinkedIn : www.linkedin.com/in/christian-nzabi-mwange
