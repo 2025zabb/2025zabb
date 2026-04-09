@@ -8,7 +8,7 @@
 
 ## À propos de moi
 
-Apprenti développeur web passionné et rigoureux avec des compétences en **PHP**, de bases en **SQL** et actuellement en apprentissage de **PostgreSQL, Java et C#**.
+Apprenti développeur web passionné et rigoureux avec des compétences en **PHP**, des bases solides en **SQL** et actuellement en apprentissage de **PostgreSQL, Java et C#**.
 
 ---
 
