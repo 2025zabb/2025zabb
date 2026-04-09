@@ -1,29 +1,83 @@
-# Salut, moi c'est Christian
+<h1 align="center">👋 Salut, moi c'est Christian</h1>
 
-Apprenti développeur web passionné, avec des compétences en PHP (formulaires et sessions),des connaissances en SQL et en cours d’apprentissage de PostgreSQL, Java et C#.
-
-
-## Mes projets
-
-- Développement d’un site vitrine avec système d’inscription utilisateur (PHP, gestion des formulaires et sessions)
-- Conception d’une application To-Do List en PHP : ajout, suppression et affichage dynamique des tâches
-
-## Technologies
-
-**Développement web :**
-- PHP (formulaires, sessions)
-- HTML / CSS
-
-**Bases de données :**
-- SQL
-- PostgreSQL (en cours)
-
-**Langages en apprentissage :**
-- Java
-- C#
+<p align="center">
+💻 Apprenti développeur web | 🚀 Passionné par la création d’applications | 🎯 En évolution constante
+</p>
 
 ---
 
-## Contact
-- Email : contact@nzabidesigns.fr
-- LinkedIn : www.linkedin.com/in/christian-nzabi-mwange
+## 🚀 À propos de moi
+
+Apprenti développeur web passionné, avec des compétences en **PHP**, une base en **SQL**, et actuellement en apprentissage de **PostgreSQL, Java et C#**.
+
+---
+
+## 🧠 Compétences techniques
+
+### 💻 Développement web
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### 🗄️ Bases de données
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 📚 Langages en apprentissage
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</p>
+
+---
+
+## 📂 Mes projets
+
+### 🌐 Site vitrine avec système d'inscription
+- Gestion des utilisateurs
+- Formulaires PHP
+- Sessions sécurisées
+
+### ✅ Application To-Do List
+- Ajout de tâches
+- Suppression dynamique
+- Interface simple et fonctionnelle
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight">
+</p>
+
+---
+
+## 🎯 Objectifs
+
+- 🚀 Maîtriser le développement backend
+- 🗄️ Approfondir PostgreSQL
+- ☕ Améliorer Java et C#
+- 🔐 Créer des projets plus sécurisés et professionnels
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+📧 Email : contact@nzabidesigns.fr  
+🔗 LinkedIn : www.linkedin.com/in/christian-nzabi-mwange  
+
+</p>
+
+---
+
+<p align="center">
+⭐ Merci d’avoir visité mon profil !
+</p>
